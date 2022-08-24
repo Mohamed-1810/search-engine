@@ -1,0 +1,12 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App1 from './Components/App1';
+
+
+
+
+ReactDOM.render(
+  <App1 />,
+  document.querySelector('#root')
+)
+
